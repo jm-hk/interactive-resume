@@ -1,0 +1,9 @@
+Javascript: The definative guide   -  David Flanagan
+Javascript: The Good Parts: The good Parts  -  Douglas Crockford
+Unraveling HTML5, CSS3, and Javascript  - Istvan Novak
+http://css-tricks.com/
+https://developers.google.com/maps/documentation/javascript/tutorial
+http://www.w3schools.com/css/
+http://www.w3.org/
+http://css3buttongenerator.com/
+https://developer.mozilla.org/en-US/docs/Web/API/document.querySelector
